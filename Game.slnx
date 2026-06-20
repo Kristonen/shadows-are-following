@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EntityComponentSystem/EntityComponentSystem.csproj" />
+  <Project Path="Main/Main.csproj" />
+</Solution>
